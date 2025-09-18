@@ -1,6 +1,6 @@
-###Ex. No:1b 			Study of Client Server Chat Applications
-##NAME:ARANI VENKATA SUNDARA LEELA KRISHNA
-##REG NO: 212224240013
+### Ex. No:1b 			Study of Client Server Chat Applications
+## NAME:ARANI VENKATA SUNDARA LEELA KRISHNA
+## REG NO: 212224240013
 
 ## Aim: 
 To perform a study on Client Server Chat Applications
